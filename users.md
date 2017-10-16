@@ -1,4 +1,4 @@
-- Name: Anupam Dagar  
+﻿- Name: Anupam Dagar  
   Place: Allahabad, India  
   Bio: I am like a code under development  
   GitHub: [Anupam Dagar](https://github.com/Anupam-dagar)    
@@ -327,3 +327,8 @@
   Place: USA  
   Bio: Developer  
   Github: [idavidy](https://github.com/idavidy) 
+
+- Name: Garrett V.
+  Place: USA
+  Bio: Student
+  Github: [GarrettValley](https://github.com/GarrettValley)
